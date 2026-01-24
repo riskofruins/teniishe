@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/love.gif" alt="me coding but make it cute" width="300"/>
+<img src="https://i.pinimg.com/736x/61/f4/91/61f491547485da4324398c9bc5fe0e2f.jpg" alt="me coding but make it cute" width="300"/>
 
 # hi, i'm ✨ teniishe ✨
 
