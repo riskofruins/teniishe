@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**teniishe/teniishe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/love.gif" alt="me coding but make it cute" width="300"/>
 
-Here are some ideas to get you started:
+# hi, i'm ✨ teniishe ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 coding  
+💖 romanticizing bugs  
+☕ powered by love for all that is indie game dev  
+
+</div>
+
+---
+
+## 🌸 about me
+- 🎀 she/her
+- 🖥️ writes code, breaks code, fixes code (eventually)
+- 🌱 currently learning whatever caught my attention this week
+- ✨ believer in pretty READMEs & clean commits
+
+---
+
+## 💕 tech i touch
+```txt
+♡ C#
+♡ React
+♡ html / css
+♡ git (sometimes against my will)
